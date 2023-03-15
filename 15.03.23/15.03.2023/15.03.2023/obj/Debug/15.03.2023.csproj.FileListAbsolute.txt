@@ -1,0 +1,7 @@
+C:\Users\305-8\Desktop\Колупаев\15.03.23\15.03.2023\15.03.2023\bin\Debug\15.03.2023.exe.config
+C:\Users\305-8\Desktop\Колупаев\15.03.23\15.03.2023\15.03.2023\bin\Debug\15.03.2023.exe
+C:\Users\305-8\Desktop\Колупаев\15.03.23\15.03.2023\15.03.2023\bin\Debug\15.03.2023.pdb
+C:\Users\305-8\Desktop\Колупаев\15.03.23\15.03.2023\15.03.2023\obj\Debug\15.03.2023.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Колупаев\15.03.23\15.03.2023\15.03.2023\obj\Debug\15.03.2023.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Колупаев\15.03.23\15.03.2023\15.03.2023\obj\Debug\15.03.2023.exe
+C:\Users\305-8\Desktop\Колупаев\15.03.23\15.03.2023\15.03.2023\obj\Debug\15.03.2023.pdb
